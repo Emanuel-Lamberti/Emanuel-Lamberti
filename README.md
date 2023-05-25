@@ -2,6 +2,7 @@
 
 # Hi world, I'm Emanuel! 👋
 
+
 ## 🚀 About Me
 
 Hello 👋, my name is Emanuel Adrián Lamberti
@@ -14,11 +15,11 @@ Despite having knowledge as a FullStack Programmer, I am focusing on the Front-E
 
 Developing interfaces and views for websites and digital platforms is what I love the most.
 
+
 🌱 I am learning Front End Programming, **Design UX/UI, React.**
 
 📫 You can find me through these contacts: **elemanu92@yahoo.com** // **elemanu9222@gmail.com**
 
-![Image text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Fprogramador-trabajando-software-ilustracion-plana-dibujos-animados-desarrollador-web-independiente-computadora-aislada_4632251.htm&psig=AOvVaw2pxWUvUEGCFQzsuKiT9dtd&ust=1685129090356000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC9nJqZkf8CFQAAAAAdAAAAABAE){width='600px'}
 
 ## 🛠 Skills
 
@@ -43,13 +44,16 @@ Developing interfaces and views for websites and digital platforms is what I lov
     <li>MySQL</li>
 </ul>
 
+
 ### Visit my Linkedin profile:
 
 [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/emanuel-lamberti-62ba2b1a7/)
 
+
 ### See more projects:
 
 [Portfolio](#)
+
 
 ## Author
 
