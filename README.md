@@ -40,7 +40,7 @@ Developing interfaces and views for websites and digital platforms is what I lov
     <li>Adobe InDesign</li>
     <li>Adobe Audition</li>
     <li>Thymeleaf</li>
-    <li>Thypescript</li>
+    <li>Typescript</li>
     <li>MySQL</li>
 </ul>
 
